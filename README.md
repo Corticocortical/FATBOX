@@ -35,4 +35,4 @@ There are no files in this folder because these are functions and scripts from o
 
 **RSA**
 
-This is a collection of function that simply representation similarity analysis. These functions are best to be used in conjunction with the RSA toolbox (see https://doi.org/10.1371/journal.pcbi.1003553).
+This is a collection of function that simply representation similarity analysis. These functions are best to be used in conjunction with the RSA toolbox (see https://doi.org/10.1371/journal.pcbi.1003553). For that reason - and because RSA analysis is necessarily tied to the design of an experiment - some of the functions here are a little bit more idiosyncratic and might require some tailoring to suit your needs.
